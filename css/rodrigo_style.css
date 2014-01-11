@@ -1,0 +1,57 @@
+#top-border{
+	border: 1px solid blue;
+	width: 50%;
+	margin: 10px 0 2px 25%;
+}
+
+#textbox-for-search{
+	width: 67%;
+}
+
+#btn-for-search {
+	width: 24%;
+	height: 6%;
+	border-radius: 11px;
+}
+
+#middle-border{
+	border: 1px solid blue;
+	width: 50%;
+	margin: 10px 0 2px 25%;
+}
+
+#book{
+	font-size: large;
+	margin: 50px 10.3333333%;
+}
+
+#chapter{
+	font-size: large;
+	margin: 10px 12.3333333%;
+}
+
+#verse{
+	font-size: large;
+	margin: 10px 8.1%;
+}
+
+#select-for-book{
+	margin: 10px 7.33%;
+	width: 18%;
+}
+
+#select-for-chapter{
+	margin: 10px 6.33%;
+	width: 18%;
+}
+
+#select-for-verse{
+	margin: 10px 6.33%;
+	width: 18%;
+}
+
+#bottom-border{
+	border: 1px solid blue;
+	width: 50%;
+	margin: 10px 0 2px 25%;
+}
